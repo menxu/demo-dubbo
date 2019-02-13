@@ -1,0 +1,2 @@
+com.dubbo.api.spi.service.impl.DubboSpiServiceImpl
+com.dubbo.api.spi.service.impl.RmiSpiServiceImpl
